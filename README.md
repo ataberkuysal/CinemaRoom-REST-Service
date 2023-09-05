@@ -29,5 +29,6 @@ Other Utilities include:
 
 - Token Validation when refunding purchased tickets and the check of availability of seats(you can only return a ticket with the token you got after purchasing the said ticket)
 - Smart Pricing
+  
   ![image](https://github.com/ataberkuysal/CinemaRoom-REST-Service/assets/54504620/e6b6e3d9-0ba3-445e-96fc-8dd30dfc3507)
 - Stats include live income and the state of the cinema room(s) 
