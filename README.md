@@ -18,7 +18,7 @@ A REST service app for handling cinema ticketing. Implemented from HYPERSKILL.
 
 - localhost:8080/stats?password=super_secret
 //Check the Stats
-*Give the correct password param like above
+*Give the correct password param like below
 
 ![image](https://github.com/ataberkuysal/CinemaRoom-REST-Service/assets/54504620/ebd0bab4-28f3-4545-af43-ca6d485e9124)
 
