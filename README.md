@@ -1,5 +1,8 @@
 # CinemaRoom-REST-Service
-A REST service app for handling cinema ticketing. Implemented from HYPERSKILL.
+A REST service app for handling cinema ticketing. Implemented from HYPERSKILL. (see below picture)
+
+![image](https://github.com/ataberkuysal/CinemaRoom-REST-Service/assets/54504620/c2e638d6-551e-4ff2-a22f-c3fc3a9761f7)
+
 
 - localhost:8080/seats
 // Get Available Seats
